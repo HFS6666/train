@@ -1119,3 +1119,27 @@ Caused by: java.net.ConnectException: Connection refused: no further information
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
 	at java.base/java.lang.Thread.run(Thread.java:833)
 2023-07-24 13:07:49.323 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:13:07:49 +0800] "GET /member/hello HTTP/1.1" 500 138 10
+2023-07-24 13:09:04.896 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 8.0.0.Final
+2023-07-24 13:09:04.947 INFO  com.wtbu.train.gateway.config.GatewayApplication  :51   [32m                  [0;39m Starting GatewayApplication using Java 17.0.8 with PID 11584 (E:\IDEAL Data\train\gateway\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-24 13:09:04.949 INFO  com.wtbu.train.gateway.config.GatewayApplication  :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-24 13:09:05.813 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=390a6740-1f4b-371e-8b32-9ee7183f016d
+2023-07-24 13:09:06.887 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [After]
+2023-07-24 13:09:06.888 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Before]
+2023-07-24 13:09:06.888 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Between]
+2023-07-24 13:09:06.889 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Cookie]
+2023-07-24 13:09:06.889 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Header]
+2023-07-24 13:09:06.889 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Host]
+2023-07-24 13:09:06.890 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Method]
+2023-07-24 13:09:06.890 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Path]
+2023-07-24 13:09:06.890 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Query]
+2023-07-24 13:09:06.890 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [ReadBody]
+2023-07-24 13:09:06.891 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [RemoteAddr]
+2023-07-24 13:09:06.891 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2023-07-24 13:09:06.891 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Weight]
+2023-07-24 13:09:06.891 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2023-07-24 13:09:07.649 INFO  o.s.boot.web.embedded.netty.NettyWebServer        :111  [32m                  [0;39m Netty started on port 8080
+2023-07-24 13:09:08.180 INFO  com.wtbu.train.gateway.config.GatewayApplication  :57   [32m                  [0;39m Started GatewayApplication in 3.951 seconds (process running for 4.982)
+2023-07-24 13:09:08.186 INFO  com.wtbu.train.gateway.config.GatewayApplication  :18   [32m                  [0;39m 启动成功！！
+2023-07-24 13:09:08.187 INFO  com.wtbu.train.gateway.config.GatewayApplication  :19   [32m                  [0;39m 网关地址: 	http://127.0.0.1:8080
+2023-07-24 13:09:49.424 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:13:09:49 +0800] "GET /member/hello HTTP/1.1" 200 5 348
+2023-07-24 13:10:27.611 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 0:0:0:0:0:0:0:1 - - [24/7月/2023:13:10:27 +0800] "GET /member/hello HTTP/1.1" 200 5 27
