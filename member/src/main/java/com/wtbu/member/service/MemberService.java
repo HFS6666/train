@@ -8,6 +8,7 @@ import com.wtbu.member.req.MemberRegisterReq;
 import com.wtbu.train.common.exception.BusinessException;
 import com.wtbu.train.common.exception.BusinessExceptionEnum;
 import com.wtbu.train.common.resp.CommonResp;
+import com.wtbu.train.common.util.SnowUtil;
 import jakarta.annotation.Resource;
 import org.springframework.stereotype.Service;
 
@@ -33,7 +34,7 @@ public class MemberService {
             throw  new BusinessException(BusinessExceptionEnum.MEMBER_MOBILE_EXIST);
         }
         Member m = new Member();
-        m.setId(System.currentTimeMillis());
+        m.setId(SnowUtil.getSnowflakeNextId());
         m.setMobile(mobile);
         memberMapper.insert(m);
         CommonResp<Long> commonResp=new CommonResp<>();
