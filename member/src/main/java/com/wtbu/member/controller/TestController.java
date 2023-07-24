@@ -1,6 +1,8 @@
 package com.wtbu.member.controller;
 
+import com.wtbu.member.req.MemberRegisterReq;
 import com.wtbu.member.service.MemberService;
+import com.wtbu.train.common.resp.CommonResp;
 import jakarta.annotation.Resource;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -13,11 +15,11 @@ public class TestController {
     @Resource
     MemberService memberService;
     @GetMapping("/count")
-    public Integer count(){
+    public CommonResp<Integer> count(){
         return memberService.count();
     }
     @PostMapping("/register")
-    public Long register(String mobile){
-        return memberService.register(mobile);
+    public CommonResp<Long> register(MemberRegisterReq req){
+        return memberService.register(req);
     }
 }

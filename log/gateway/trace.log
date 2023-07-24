@@ -1432,3 +1432,8 @@ Identify and stop the process that's listening on port 8080 or configure this ap
 2023-07-24 19:25:31.931 INFO  com.wtbu.train.gateway.config.GatewayApplication  :19   [32m                  [0;39m 网关地址: 	http://127.0.0.1:8080
 2023-07-24 19:33:08.243 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:19:33:07 +0800] "GET /member/member/count HTTP/1.1" 200 1 1178
 2023-07-24 19:33:22.063 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:19:33:22 +0800] "GET /member/member/count HTTP/1.1" 200 1 31
+2023-07-24 19:50:33.234 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:19:50:33 +0800] "POST /member/member/register HTTP/1.1" 200 13 162
+2023-07-24 20:02:08.875 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:20:02:08 +0800] "POST /member/member/register HTTP/1.1" 500 12844 289
+2023-07-24 20:02:27.877 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:20:02:27 +0800] "POST /member/member/register HTTP/1.1" 500 12844 38
+2023-07-24 20:03:59.761 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:20:03:59 +0800] "POST /member/member/register HTTP/1.1" 500 12844 72
+2023-07-24 20:05:50.213 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [24/7月/2023:20:05:50 +0800] "POST /member/member/register HTTP/1.1" 500 8154 86
