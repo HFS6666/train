@@ -10,8 +10,9 @@ import org.springframework.core.env.Environment;
 
 @SpringBootApplication
 @ComponentScan("com.wtbu")
-@MapperScan("com.wtbu.member.mapper")
+@MapperScan("com.wtbu.*.mapper")
 public class MemberApplication {
+
     private static final Logger LOG = LoggerFactory.getLogger(MemberApplication.class);
 
     public static void main(String[] args) {
