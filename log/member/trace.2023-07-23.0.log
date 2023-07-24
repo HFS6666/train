@@ -1,0 +1,1040 @@
+2023-07-23 13:58:32.745 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 17348 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 13:58:32.745 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 13:58:33.058 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 13:58:33.068 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 13:58:33.151 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 13:58:33.161 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 13:58:33.161 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 13:58:33.191 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 13:58:33.191 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 436 ms
+2023-07-23 13:58:33.301 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 13:58:33.605 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 13:58:33.906 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.63 seconds (process running for 78.539)
+2023-07-23 13:58:33.916 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 13:58:33.916 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 13:58:33.916 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/hello
+2023-07-23 13:58:41.137 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 13:58:41.137 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 13:58:41.194 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 13:58:41.194 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 13:58:42.136 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 13:58:42.226 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 13:58:42.895 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 13:58:42.925 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 13:58:42.925 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 13:58:42.925 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 13:58:42.995 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 13:58:42.995 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1801 ms
+2023-07-23 13:58:43.419 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 13:58:43.803 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 13:58:43.823 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 13:58:44.037 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.66 seconds (process running for 5.246)
+2023-07-23 13:58:44.037 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 13:58:44.037 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/hello
+2023-07-23 14:09:28.316 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2023-07-23 14:09:28.356 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:28.356 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:09:28.356 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:28.366 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:28.806 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:09:28.806 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:09:29.087 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 14:09:29.097 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:09:29.170 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:09:29.170 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:29.170 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:09:29.170 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:09:29.200 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:09:29.200 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 384 ms
+2023-07-23 14:09:29.320 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:09:29.690 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:29.710 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:09:29.967 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.54 seconds (process running for 651.18)
+2023-07-23 14:09:29.977 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 14:09:29.977 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:09:29.977 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 14:09:30.733 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-07-23 14:09:30.753 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:30.753 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:09:30.753 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:30.764 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:31.101 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:09:31.101 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:09:31.308 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 14:09:31.318 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:09:31.420 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:09:31.420 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:31.420 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:09:31.420 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:09:31.450 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:09:31.450 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 339 ms
+2023-07-23 14:09:31.550 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:09:31.804 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:09:31.814 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:09:32.064 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.247 seconds (process running for 653.27)
+2023-07-23 14:09:32.064 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 14:09:32.064 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:09:32.064 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 14:09:46.094 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 14:09:46.094 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 14:09:46.104 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 10 ms
+2023-07-23 14:24:53.487 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+2023-07-23 14:24:53.507 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:24:53.507 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:24:53.507 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-23 14:24:53.517 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:24:53.517 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:24:53.867 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:24:53.867 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:24:54.063 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2a9d3e8a-18c1-35a5-ab02-579b1ba2366b
+2023-07-23 14:24:54.073 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:24:54.123 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:24:54.123 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:24:54.123 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:24:54.123 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:24:54.143 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:24:54.143 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 276 ms
+2023-07-23 14:24:54.223 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:24:54.523 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:24:54.523 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:24:54.776 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.202 seconds (process running for 1575.98)
+2023-07-23 14:24:54.778 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 14:24:54.778 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:24:54.780 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/hello
+2023-07-23 14:27:50.543 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2023-07-23 14:27:50.575 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:27:50.575 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:27:50.575 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:27:50.575 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:27:50.914 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:27:50.914 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:27:51.112 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 14:27:51.122 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:27:51.162 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:27:51.162 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:27:51.172 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:27:51.172 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:27:51.208 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:27:51.216 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 302 ms
+2023-07-23 14:27:51.317 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:27:51.571 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:27:51.581 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:27:51.774 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.135 seconds (process running for 1752.979)
+2023-07-23 14:27:51.775 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 14:27:51.776 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:27:51.777 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 14:46:06.889 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+2023-07-23 14:46:06.919 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:06.919 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:46:06.919 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:06.919 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:07.262 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:46:07.262 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:46:07.471 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 14:46:07.471 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:46:07.521 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:46:07.521 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:07.521 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:46:07.521 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:46:07.551 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:46:07.551 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 279 ms
+2023-07-23 14:46:07.621 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:46:07.871 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:07.894 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:46:08.134 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.146 seconds (process running for 2849.341)
+2023-07-23 14:46:08.134 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 14:46:08.134 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:46:08.134 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 14:46:09.034 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2023-07-23 14:46:09.064 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:09.064 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:46:09.064 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:09.064 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:09.374 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:46:09.374 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:46:09.543 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 14:46:09.553 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:46:09.595 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:46:09.595 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:09.595 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:46:09.595 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:46:09.615 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:46:09.615 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 231 ms
+2023-07-23 14:46:09.685 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:46:09.925 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:09.925 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:46:10.137 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.007 seconds (process running for 2851.345)
+2023-07-23 14:46:10.137 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 14:46:10.137 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:46:10.137 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 14:46:20.176 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+2023-07-23 14:46:20.216 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:20.216 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:46:20.216 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:20.216 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:20.612 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:46:20.612 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:46:20.857 ERROR org.springframework.boot.SpringApplication        :820  [32m                  [0;39m Application run failed
+java.lang.NullPointerException: Cannot read field "generatedClass" because "data" is null
+	at org.springframework.cglib.proxy.Enhancer.nextInstance(Enhancer.java:783)
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:326)
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:567)
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:412)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:138)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:109)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:513)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:304)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:358)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:150)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:745)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:565)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at MemberApplication.main(MemberApplication.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2023-07-23 14:46:22.500 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:46:22.500 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:46:22.674 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2c63aa77-8c77-3f6a-8dcf-09186a0db4b7
+2023-07-23 14:46:22.674 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:46:22.704 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:46:22.704 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:22.704 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:46:22.704 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:46:22.724 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:46:22.724 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 214 ms
+2023-07-23 14:46:22.784 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:46:22.984 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:46:22.994 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:46:23.194 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 0.902 seconds (process running for 2864.404)
+2023-07-23 14:46:23.194 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 14:46:23.194 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:46:23.194 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 14:51:26.973 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-07-23 14:51:26.993 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:51:26.993 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:51:26.993 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:51:27.003 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:51:27.354 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 6432 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:51:27.354 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:51:27.582 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=eb99b91c-f317-39c2-afc8-eb778e87688f
+2023-07-23 14:51:27.592 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:51:27.642 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:51:27.642 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:51:27.642 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:51:27.642 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:51:27.662 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:51:27.662 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 308 ms
+2023-07-23 14:51:27.672 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:592  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'logAspect': Lookup method resolution failed
+2023-07-23 14:51:27.672 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 14:51:27.682 INFO  o.s.b.a.logging.ConditionEvaluationReportLogger   :82   [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-07-23 14:51:27.682 ERROR org.springframework.boot.SpringApplication        :820  [32m                  [0;39m Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'logAspect': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:470)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:340)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1283)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:561)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at MemberApplication.main(MemberApplication.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.wtbu.member.aspect.LogAspect] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@7846338b]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:448)
+	... 22 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/aspectj/lang/ProceedingJoinPoint
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 24 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.aspectj.lang.ProceedingJoinPoint
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 28 common frames omitted
+2023-07-23 14:58:53.073 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 980 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 14:58:53.073 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 14:58:53.129 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 14:58:53.129 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 14:58:53.896 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 14:58:54.129 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:58:54.789 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 14:58:54.809 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:58:54.809 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 14:58:54.809 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 14:58:54.879 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 14:58:54.889 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1760 ms
+2023-07-23 14:58:55.739 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 14:58:56.039 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 14:58:56.069 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 14:58:56.299 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.927 seconds (process running for 5.112)
+2023-07-23 14:58:56.309 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 14:58:56.309 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 14:59:01.890 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 14:59:01.891 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 14:59:01.893 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-07-23 15:00:08.911 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2023-07-23 15:00:08.941 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:08.941 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:00:08.941 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-23 15:00:08.951 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:08.951 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:09.331 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 980 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:00:09.331 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:00:09.603 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 15:00:09.623 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:00:09.703 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:00:09.703 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:09.713 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:00:09.713 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:00:09.743 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:00:09.743 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 402 ms
+2023-07-23 15:00:10.043 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:00:10.294 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:10.294 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:00:10.504 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.494 seconds (process running for 79.317)
+2023-07-23 15:00:10.504 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:00:10.504 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:00:10.504 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:00:11.457 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-07-23 15:00:11.477 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:11.477 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:00:11.487 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:11.487 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:11.807 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 980 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:00:11.807 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:00:12.002 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 15:00:12.022 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:00:12.117 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:00:12.117 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:12.117 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:00:12.117 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:00:12.137 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:00:12.137 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 330 ms
+2023-07-23 15:00:12.387 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:00:12.610 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:12.620 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:00:12.840 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.295 seconds (process running for 81.651)
+2023-07-23 15:00:12.840 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:00:12.840 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:00:12.840 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:00:18.529 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 8812 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:00:18.539 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:00:18.595 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:00:18.595 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:00:19.730 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 15:00:20.134 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:00:20.774 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:00:20.784 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:20.784 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:00:20.784 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:00:20.866 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:00:20.866 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 2271 ms
+2023-07-23 15:00:21.659 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:00:21.989 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:00:22.019 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:00:22.219 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 4.531 seconds (process running for 6.008)
+2023-07-23 15:00:22.229 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:00:22.229 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:00:47.156 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 15:00:47.156 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 15:00:47.156 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 15:00:47.226 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:00:47.226 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:00:47.226 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+com.wtbu.member.controller.controller.say
+2023-07-23 15:00:47.226 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:00:47.266 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:00:47.266 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:00:47.266 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：40 ms -------------
+2023-07-23 15:03:41.044 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2023-07-23 15:03:41.075 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:41.075 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:03:41.075 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-23 15:03:41.085 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:41.085 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:41.414 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 8812 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:03:41.414 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:03:41.610 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 15:03:41.630 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:03:41.750 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:03:41.750 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:41.750 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:03:41.750 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:03:41.780 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:03:41.780 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 366 ms
+2023-07-23 15:03:42.111 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:03:42.441 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:42.441 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:03:42.671 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.525 seconds (process running for 206.457)
+2023-07-23 15:03:42.671 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:03:42.681 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:03:42.681 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:03:43.545 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-07-23 15:03:43.565 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:43.565 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:03:43.565 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:43.565 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:43.855 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 8812 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:03:43.855 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:03:44.054 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 15:03:44.064 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:03:44.147 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:03:44.148 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:44.148 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:03:44.148 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:03:44.170 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:03:44.171 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 316 ms
+2023-07-23 15:03:44.411 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:03:44.631 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:44.641 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:03:44.811 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.199 seconds (process running for 208.595)
+2023-07-23 15:03:44.811 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:03:44.811 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:03:44.811 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:03:56.274 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 8868 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:03:56.284 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:03:56.349 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:03:56.349 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:03:57.271 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 15:03:57.611 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:03:58.272 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:03:58.282 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:58.282 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:03:58.282 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:03:58.381 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:03:58.381 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 2032 ms
+2023-07-23 15:03:59.114 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:03:59.438 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:03:59.468 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:03:59.658 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 4.077 seconds (process running for 5.393)
+2023-07-23 15:03:59.668 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:03:59.668 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:04:06.734 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 15:04:06.734 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 15:04:06.734 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 15:07:05.726 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 14608 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:07:05.726 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:07:05.801 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:07:05.801 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:07:06.799 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=fa018ca5-74b4-34ec-9245-a14448ce0e48
+2023-07-23 15:07:07.119 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:07:07.759 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:07:07.769 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:07:07.769 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:07:07.769 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:07:07.862 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:07:07.862 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 2061 ms
+2023-07-23 15:07:08.592 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:07:08.902 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:07:08.922 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:07:09.122 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 4.121 seconds (process running for 5.437)
+2023-07-23 15:07:09.132 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:07:09.132 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:11:17.033 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 17248 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:11:17.043 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:11:17.096 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:11:17.096 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:11:17.774 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:11:17.946 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:11:18.527 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:11:18.527 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:11:18.537 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:11:18.537 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:11:18.587 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:11:18.587 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1491 ms
+2023-07-23 15:11:19.211 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:11:19.521 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:11:19.551 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:11:19.751 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.388 seconds (process running for 4.433)
+2023-07-23 15:11:19.751 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:11:19.761 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:12:48.659 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2023-07-23 15:12:48.679 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:12:48.679 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:12:48.689 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:12:48.689 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:12:49.036 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 17248 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:12:49.036 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:12:49.301 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=7f1a60a3-d239-3e78-8b43-b20e82f7b887
+2023-07-23 15:12:49.321 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:12:49.441 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:12:49.441 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:12:49.441 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:12:49.441 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:12:49.461 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:12:49.461 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 425 ms
+2023-07-23 15:12:49.731 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:12:49.980 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:12:49.980 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:12:50.171 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.43 seconds (process running for 94.86)
+2023-07-23 15:12:50.181 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:12:50.181 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:12:50.181 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:13:47.674 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 15352 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:13:47.684 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:13:47.726 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:13:47.726 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:13:48.390 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:13:48.589 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:13:49.139 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:13:49.149 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:13:49.159 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:13:49.159 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:13:49.238 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:13:49.238 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1512 ms
+2023-07-23 15:13:49.868 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:13:50.158 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:13:50.178 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:13:50.378 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.365 seconds (process running for 4.428)
+2023-07-23 15:13:50.378 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:13:50.378 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:15:08.584 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-07-23 15:15:08.604 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:15:08.604 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:15:08.614 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:15:08.614 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:15:08.964 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 15352 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:15:08.964 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:15:09.235 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:15:09.245 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:15:09.345 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:15:09.355 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:15:09.355 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:15:09.355 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:15:09.375 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:15:09.375 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 401 ms
+2023-07-23 15:15:09.665 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:15:09.875 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:15:09.885 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:15:10.095 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.423 seconds (process running for 84.15)
+2023-07-23 15:15:10.095 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:15:10.105 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:15:10.105 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:17:14.706 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 5116 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:17:14.706 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:17:14.767 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:17:14.767 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:17:15.728 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:17:15.968 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:17:16.562 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:17:16.572 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:17:16.582 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:17:16.582 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:17:16.657 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:17:16.657 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1890 ms
+2023-07-23 15:17:17.227 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:17:17.547 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:17:17.571 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:17:17.781 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.805 seconds (process running for 4.869)
+2023-07-23 15:17:17.791 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:17:17.791 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:17:43.513 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 15:17:43.513 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 15:17:43.513 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 15:17:43.553 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:17:43.563 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:17:43.563 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:17:43.563 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:17:43.603 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:17:43.603 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:17:43.603 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：50 ms -------------
+2023-07-23 15:22:31.392 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 5348 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:22:31.392 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:22:31.452 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:22:31.462 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:22:32.333 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:22:32.587 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:22:33.188 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:22:33.198 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:22:33.198 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:22:33.198 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:22:33.268 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:22:33.268 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1806 ms
+2023-07-23 15:22:33.894 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:22:34.167 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:22:34.197 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:22:34.407 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.684 seconds (process running for 5.084)
+2023-07-23 15:22:34.407 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:22:34.407 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:22:43.108 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 15:22:43.108 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 15:22:43.108 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 15:22:43.148 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:22:43.158 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:22:43.158 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:22:43.158 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:22:43.198 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:22:43.198 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:22:43.198 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：50 ms -------------
+2023-07-23 15:24:16.266 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2023-07-23 15:24:16.286 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:24:16.286 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:24:16.286 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-23 15:24:16.296 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:24:16.296 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:24:16.606 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 5348 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:24:16.606 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:24:16.875 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=d782d16d-aae3-3bb6-be34-346c6d338f2e
+2023-07-23 15:24:16.889 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:24:16.958 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:24:16.958 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:24:16.958 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:24:16.958 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:24:16.988 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:24:16.988 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 372 ms
+2023-07-23 15:24:17.132 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:24:17.771 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:24:17.795 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:24:18.045 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.704 seconds (process running for 108.727)
+2023-07-23 15:24:18.045 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:24:18.045 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:24:18.045 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:25:23.196 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-07-23 15:25:23.216 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:25:23.216 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 15:25:23.216 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:25:23.226 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:25:23.581 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 5348 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:25:23.581 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:25:23.988 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:25:24.028 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:25:24.178 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:25:24.178 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:25:24.178 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:25:24.178 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:25:24.208 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:25:24.208 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 627 ms
+2023-07-23 15:25:24.538 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:25:24.798 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:25:24.798 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:25:25.053 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.784 seconds (process running for 175.732)
+2023-07-23 15:25:25.053 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 15:25:25.053 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:25:25.053 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:25:45.466 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 15:25:45.476 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 15:25:45.476 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 15:25:45.476 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:25:45.476 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:25:45.476 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:25:45.476 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:25:45.476 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:25:45.486 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:25:45.486 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：10 ms -------------
+2023-07-23 15:25:55.258 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 18440 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:25:55.269 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:25:55.327 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:25:55.327 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:25:56.231 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:25:56.461 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:25:57.092 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:25:57.102 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:25:57.102 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:25:57.102 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:25:57.187 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:25:57.187 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1860 ms
+2023-07-23 15:25:57.797 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:25:58.108 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:25:58.138 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:25:58.348 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.778 seconds (process running for 4.928)
+2023-07-23 15:25:58.358 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:25:58.358 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:28:45.440 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 11960 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:28:45.440 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:28:45.501 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:28:45.501 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:28:46.345 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:28:46.559 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:28:47.129 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:28:47.139 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:28:47.139 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:28:47.139 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:28:47.209 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:28:47.209 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1708 ms
+2023-07-23 15:28:47.842 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:28:48.152 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:28:48.182 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:28:48.402 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.632 seconds (process running for 5.455)
+2023-07-23 15:28:48.402 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:28:48.402 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:29:02.226 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 15:29:02.226 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 15:29:02.226 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 15:29:02.256 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:29:02.266 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:29:02.266 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:29:02.266 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:29:02.306 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:29:02.306 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:29:02.306 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：50 ms -------------
+2023-07-23 15:29:06.534 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:29:06.534 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:29:06.534 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:29:06.534 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:29:06.534 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:29:06.534 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:29:06.534 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：0 ms -------------
+2023-07-23 15:29:10.024 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:29:10.024 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:29:10.025 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:29:10.026 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 0:0:0:0:0:0:0:1
+2023-07-23 15:29:10.028 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:29:10.029 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:29:10.030 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：7 ms -------------
+2023-07-23 15:29:13.754 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:29:13.755 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:29:13.756 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:29:13.757 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 0:0:0:0:0:0:0:1
+2023-07-23 15:29:13.758 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:29:13.758 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:29:13.759 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：5 ms -------------
+2023-07-23 15:29:16.701 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:29:16.702 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:29:16.704 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:29:16.705 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 0:0:0:0:0:0:0:1
+2023-07-23 15:29:16.706 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:29:16.707 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:29:16.708 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：7 ms -------------
+2023-07-23 15:43:56.387 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 17404 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 15:43:56.391 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 15:43:56.455 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 15:43:56.455 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 15:43:57.461 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 15:43:57.714 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:43:58.556 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 15:43:58.571 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:43:58.572 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 15:43:58.572 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 15:43:58.675 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 15:43:58.677 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 2220 ms
+2023-07-23 15:43:59.359 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 15:43:59.668 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 15:43:59.697 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 15:43:59.912 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 4.379 seconds (process running for 5.745)
+2023-07-23 15:43:59.917 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 15:43:59.918 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 15:45:04.099 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 15:45:04.099 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 15:45:04.109 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 10 ms
+2023-07-23 15:45:04.149 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:45:04.149 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:45:04.149 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:45:04.149 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:45:04.189 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:45:04.199 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:45:04.199 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：50 ms -------------
+2023-07-23 15:46:00.890 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:46:00.891 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:46:00.892 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:46:00.893 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:46:00.895 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:46:00.897 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:46:00.898 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：8 ms -------------
+2023-07-23 15:53:12.191 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 15:53:12.191 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 15:53:12.191 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: TestController.say
+2023-07-23 15:53:12.191 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 15:53:12.191 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 15:53:12.191 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 15:53:12.200 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：9 ms -------------
+2023-07-23 16:06:01.717 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 3 class path changes (0 additions, 3 deletions, 0 modifications)
+2023-07-23 16:06:01.807 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:06:01.807 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 16:06:01.807 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-23 16:06:01.817 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:06:01.827 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:06:02.494 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 17404 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:06:02.494 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:06:02.821 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=125ba1db-48ad-3e1d-a32b-69b280fcd95f
+2023-07-23 16:06:02.841 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:06:02.901 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:06:02.901 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:06:02.901 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:06:02.901 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:06:02.921 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:06:02.921 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 417 ms
+2023-07-23 16:06:03.041 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:06:03.321 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:06:03.321 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:06:03.541 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.605 seconds (process running for 1329.375)
+2023-07-23 16:06:03.541 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 16:06:03.541 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:06:03.541 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:17:42.848 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2023-07-23 16:17:42.868 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:17:42.868 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 16:17:42.868 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:17:42.868 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:17:43.159 INFO  MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 17404 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:17:43.159 INFO  MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:17:43.391 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 16:17:43.402 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:17:43.512 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:17:43.522 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:17:43.522 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:17:43.522 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:17:43.542 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:17:43.542 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 373 ms
+2023-07-23 16:17:43.842 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:17:44.122 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:17:44.132 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:17:44.352 INFO  MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.432 seconds (process running for 2030.186)
+2023-07-23 16:17:44.352 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 16:17:44.352 INFO  MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:17:44.352 INFO  MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:26:36.791 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 4 class path changes (2 additions, 2 deletions, 0 modifications)
+2023-07-23 16:26:36.811 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:26:36.811 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 16:26:36.811 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:26:36.811 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:26:37.161 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 17404 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:26:37.161 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:29:05.788 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 11180 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:29:05.798 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:29:05.858 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 16:29:05.858 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 16:29:06.790 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=d782d16d-aae3-3bb6-be34-346c6d338f2e
+2023-07-23 16:29:06.895 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:29:07.399 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:29:07.409 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:29:07.419 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:29:07.419 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:29:07.499 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:29:07.499 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1641 ms
+2023-07-23 16:29:07.900 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:29:08.150 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:29:08.180 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:29:08.370 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.338 seconds (process running for 4.421)
+2023-07-23 16:29:08.380 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:29:08.380 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:29:18.856 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 16:29:18.856 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 16:29:18.858 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-07-23 16:34:46.711 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 15248 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:34:46.721 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:34:46.774 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 16:34:46.774 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 16:34:47.658 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=d782d16d-aae3-3bb6-be34-346c6d338f2e
+2023-07-23 16:34:47.768 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:34:48.287 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:34:48.307 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:34:48.307 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:34:48.307 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:34:48.397 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:34:48.397 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1613 ms
+2023-07-23 16:34:48.798 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:34:49.038 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:34:49.058 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:34:49.308 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.335 seconds (process running for 4.475)
+2023-07-23 16:34:49.308 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:34:49.308 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:34:59.300 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 16:34:59.300 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 16:34:59.300 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 16:36:51.305 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-07-23 16:36:51.325 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:36:51.325 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2023-07-23 16:36:51.325 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-23 16:36:51.335 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:36:51.335 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:36:51.656 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 15248 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:36:51.656 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:36:51.918 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 16:36:52.008 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:36:52.158 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:36:52.158 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:36:52.158 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:36:52.158 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:36:52.188 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:36:52.188 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 512 ms
+2023-07-23 16:36:52.648 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:36:52.933 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:36:52.943 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:36:53.153 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 1.777 seconds (process running for 128.321)
+2023-07-23 16:36:53.153 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2023-07-23 16:36:53.153 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:36:53.153 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:38:08.123 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 5800 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:38:08.123 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:38:08.195 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 16:38:08.195 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 16:38:09.179 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 16:38:09.448 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:38:10.151 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:38:10.161 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:38:10.161 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:38:10.161 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:38:10.251 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:38:10.251 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 2056 ms
+2023-07-23 16:38:11.041 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:38:11.341 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:38:11.371 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:38:11.591 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 4.226 seconds (process running for 6.659)
+2023-07-23 16:38:11.591 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:38:11.591 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:38:49.141 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 16:38:49.141 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 16:38:49.141 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 16:38:49.181 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 16:38:49.181 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 16:38:49.181 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: com.wtbu.member.controller.TestController.say
+2023-07-23 16:38:49.181 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 16:38:49.221 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 16:38:49.221 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 16:38:49.221 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：40 ms -------------
+2023-07-23 16:39:22.646 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 8100 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:39:22.652 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:39:22.716 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 16:39:22.716 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 16:39:23.637 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 16:39:23.907 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:39:24.577 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:39:24.587 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:39:24.597 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:39:24.597 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:39:24.687 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:39:24.687 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1971 ms
+2023-07-23 16:39:25.491 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:39:25.812 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:39:25.842 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:39:26.032 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 4.062 seconds (process running for 5.475)
+2023-07-23 16:39:26.042 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:39:26.042 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:39:58.835 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 16:39:58.835 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 16:39:58.835 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2023-07-23 16:39:58.875 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 16:39:58.875 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 16:39:58.875 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: com.wtbu.member.controller.TestController.say
+2023-07-23 16:39:58.875 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 16:39:58.915 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 16:39:58.915 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 16:39:58.915 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：40 ms -------------
+2023-07-23 16:40:08.275 INFO  com.wtbu.member.aspect.LogAspect                  :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 16:40:08.275 INFO  com.wtbu.member.aspect.LogAspect                  :49   [32m                  [0;39m 请求地址: http://localhost:8081/member/hello GET
+2023-07-23 16:40:08.275 INFO  com.wtbu.member.aspect.LogAspect                  :50   [32m                  [0;39m 类名方法: com.wtbu.member.controller.TestController.say
+2023-07-23 16:40:08.275 INFO  com.wtbu.member.aspect.LogAspect                  :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 16:40:08.275 INFO  com.wtbu.member.aspect.LogAspect                  :72   [32m                  [0;39m 请求参数: []
+2023-07-23 16:40:08.275 INFO  com.wtbu.member.aspect.LogAspect                  :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 16:40:08.275 INFO  com.wtbu.member.aspect.LogAspect                  :85   [32m                  [0;39m ------------- 结束 耗时：0 ms -------------
+2023-07-23 16:41:15.847 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 2448 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:41:15.849 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:41:15.909 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 16:41:15.909 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 16:41:16.719 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=d782d16d-aae3-3bb6-be34-346c6d338f2e
+2023-07-23 16:41:16.816 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:41:17.336 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:41:17.346 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:41:17.346 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:41:17.346 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:41:17.416 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:41:17.416 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1507 ms
+2023-07-23 16:41:17.776 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:41:18.055 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:41:18.075 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:41:18.255 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.082 seconds (process running for 4.352)
+2023-07-23 16:41:18.265 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:41:18.265 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:41:38.426 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 16:41:38.427 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 16:41:38.428 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-07-23 16:55:49.610 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 11764 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 16:55:49.610 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 16:55:49.685 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 16:55:49.685 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 16:55:50.670 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 16:55:51.000 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:55:51.660 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-23 16:55:51.670 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:55:51.670 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 16:55:51.670 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 16:55:51.759 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 16:55:51.759 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 2074 ms
+2023-07-23 16:55:52.586 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 16:55:52.945 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-23 16:55:52.975 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path '/member'
+2023-07-23 16:55:53.155 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 4.231 seconds (process running for 5.318)
+2023-07-23 16:55:53.155 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 16:55:53.155 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8081/member/hello
+2023-07-23 16:56:09.686 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 16:56:09.687 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 16:56:09.690 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-07-23 16:56:09.754 INFO  com.wtbu.train.common.aspect.LogAspect            :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 16:56:09.756 INFO  com.wtbu.train.common.aspect.LogAspect            :49   [32m                  [0;39m 请求地址: http://127.0.0.1:8081/member/hello GET
+2023-07-23 16:56:09.757 INFO  com.wtbu.train.common.aspect.LogAspect            :50   [32m                  [0;39m 类名方法: com.wtbu.member.controller.TestController.say
+2023-07-23 16:56:09.758 INFO  com.wtbu.train.common.aspect.LogAspect            :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 16:56:09.808 INFO  com.wtbu.train.common.aspect.LogAspect            :72   [32m                  [0;39m 请求参数: []
+2023-07-23 16:56:09.809 INFO  com.wtbu.train.common.aspect.LogAspect            :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 16:56:09.809 INFO  com.wtbu.train.common.aspect.LogAspect            :85   [32m                  [0;39m ------------- 结束 耗时：58 ms -------------
+2023-07-23 17:04:11.358 INFO  com.wtbu.member.config.MemberApplication          :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.8 with PID 12104 (E:\IDEAL Data\train\member\target\classes started by adminstraotr in E:\IDEAL Data\train)
+2023-07-23 17:04:11.358 INFO  com.wtbu.member.config.MemberApplication          :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-23 17:04:11.414 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-23 17:04:11.414 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-23 17:04:12.349 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2023-07-23 17:04:12.621 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 17:04:13.285 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8082 (http)
+2023-07-23 17:04:13.295 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8082"]
+2023-07-23 17:04:13.295 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-23 17:04:13.295 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2023-07-23 17:04:13.375 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-23 17:04:13.375 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1961 ms
+2023-07-23 17:04:14.047 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-23 17:04:14.327 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8082"]
+2023-07-23 17:04:14.347 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8082 (http) with context path '/member'
+2023-07-23 17:04:14.537 INFO  com.wtbu.member.config.MemberApplication          :57   [32m                  [0;39m Started MemberApplication in 3.836 seconds (process running for 5.147)
+2023-07-23 17:04:14.537 INFO  com.wtbu.member.config.MemberApplication          :18   [32m                  [0;39m 启动成功！！
+2023-07-23 17:04:14.547 INFO  com.wtbu.member.config.MemberApplication          :19   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8082/member/hello
+2023-07-23 17:04:19.788 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-23 17:04:19.789 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-23 17:04:19.790 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-07-23 17:04:19.844 INFO  com.wtbu.train.common.aspect.LogAspect            :48   [32m                  [0;39m ------------- 开始 -------------
+2023-07-23 17:04:19.845 INFO  com.wtbu.train.common.aspect.LogAspect            :49   [32m                  [0;39m 请求地址: http://127.0.0.1:8082/member/hello GET
+2023-07-23 17:04:19.845 INFO  com.wtbu.train.common.aspect.LogAspect            :50   [32m                  [0;39m 类名方法: com.wtbu.member.controller.TestController.say
+2023-07-23 17:04:19.846 INFO  com.wtbu.train.common.aspect.LogAspect            :51   [32m                  [0;39m 远程地址: 127.0.0.1
+2023-07-23 17:04:19.891 INFO  com.wtbu.train.common.aspect.LogAspect            :72   [32m                  [0;39m 请求参数: []
+2023-07-23 17:04:19.892 INFO  com.wtbu.train.common.aspect.LogAspect            :84   [32m                  [0;39m 返回结果: "hello"
+2023-07-23 17:04:19.892 INFO  com.wtbu.train.common.aspect.LogAspect            :85   [32m                  [0;39m ------------- 结束 耗时：50 ms -------------

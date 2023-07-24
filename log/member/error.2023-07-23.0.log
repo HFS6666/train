@@ -1,0 +1,108 @@
+2023-07-23 13:58:33.068 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 13:58:42.226 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:09:29.097 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:09:31.318 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:24:54.073 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:27:51.122 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:46:07.471 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:46:09.553 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:46:20.857 ERROR org.springframework.boot.SpringApplication        :820  [32m                  [0;39m Application run failed
+java.lang.NullPointerException: Cannot read field "generatedClass" because "data" is null
+	at org.springframework.cglib.proxy.Enhancer.nextInstance(Enhancer.java:783)
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:326)
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:567)
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:412)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:138)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:109)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:513)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:304)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:358)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:150)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:745)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:565)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at MemberApplication.main(MemberApplication.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2023-07-23 14:46:22.674 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:51:27.592 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 14:51:27.682 ERROR org.springframework.boot.SpringApplication        :820  [32m                  [0;39m Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'logAspect': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:470)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:340)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1283)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:561)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at MemberApplication.main(MemberApplication.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.wtbu.member.aspect.LogAspect] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@7846338b]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:448)
+	... 22 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/aspectj/lang/ProceedingJoinPoint
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 24 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.aspectj.lang.ProceedingJoinPoint
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 28 common frames omitted
+2023-07-23 14:58:54.129 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:00:09.623 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:00:12.022 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:00:20.134 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:03:41.630 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:03:44.064 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:03:57.611 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:07:07.119 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:11:17.946 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:12:49.321 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:13:48.589 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:15:09.245 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:17:15.968 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:22:32.587 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:24:16.889 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:25:24.028 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:25:56.461 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:28:46.559 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 15:43:57.714 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:06:02.841 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:17:43.402 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:29:06.895 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:34:47.768 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:36:52.008 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:38:09.448 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:39:23.907 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:41:16.816 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 16:55:51.000 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-23 17:04:12.621 ERROR org.apache.catalina.core.AprLifecycleListener     :173  [32m                  [0;39m An incompatible version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
