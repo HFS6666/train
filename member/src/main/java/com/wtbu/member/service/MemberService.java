@@ -5,6 +5,8 @@ import com.wtbu.member.domain.Member;
 import com.wtbu.member.domain.MemberExample;
 import com.wtbu.member.mapper.MemberMapper;
 import com.wtbu.member.req.MemberRegisterReq;
+import com.wtbu.train.common.exception.BusinessException;
+import com.wtbu.train.common.exception.BusinessExceptionEnum;
 import com.wtbu.train.common.resp.CommonResp;
 import jakarta.annotation.Resource;
 import org.springframework.stereotype.Service;
@@ -28,7 +30,7 @@ public class MemberService {
         memberExample.createCriteria().andMobileEqualTo(mobile);
         List<Member> list = memberMapper.selectByExample(memberExample);
         if (CollUtil.isNotEmpty(list)) {
-            throw  new RuntimeException("手机号已经注册");
+            throw  new BusinessException(BusinessExceptionEnum.MEMBER_MOBILE_EXIST);
         }
         Member m = new Member();
         m.setId(System.currentTimeMillis());
