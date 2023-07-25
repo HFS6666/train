@@ -24,3 +24,5 @@
 2023-07-25 10:34:20.917 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [25/7月/2023:10:34:20 +0800] "POST /member/member/sendcode HTTP/1.1" 404 144 40
 2023-07-25 10:35:05.117 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [25/7月/2023:10:35:05 +0800] "POST /member/member/send-code HTTP/1.1" 200 69 30
 2023-07-25 10:35:27.959 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [25/7月/2023:10:35:27 +0800] "POST /member/member/send-code HTTP/1.1" 200 46 90
+2023-07-25 10:45:10.845 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [25/7月/2023:10:45:10 +0800] "POST /member/member/send-code HTTP/1.1" 200 46 80
+2023-07-25 10:46:36.019 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [25/7月/2023:10:46:35 +0800] "POST /member/member/send-code HTTP/1.1" 200 46 20
